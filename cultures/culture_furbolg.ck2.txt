@@ -2,5 +2,16 @@ group_furbolg = {
     
     furbolg = {
         color = { 128 96 0 } # rgba(128,96,0, 1) - #806000
+
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+
     }
 }

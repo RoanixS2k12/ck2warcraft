@@ -97,6 +97,17 @@ dragon_group = {
 
 	bronze_dragon = {
 		color = { 246 187 0 } # rgba(246,187,0, 1) - #f6bb00
+
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+
 	}
 
 

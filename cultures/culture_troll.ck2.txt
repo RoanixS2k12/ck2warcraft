@@ -532,6 +532,17 @@ group_troll = {
 
 	drakkari = {
 		color = { 51 63 79 } # rgba(51,63,79, 1) - #333f4f
+		
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+
 	}
 
 }

@@ -1,5 +1,16 @@
 group_tuskarr = {
     tuskarr = {
         color = { 244 176 132 } # rgba(244,176,132, 1) - #f4b084
+    
+        modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
     }
+    
 }

@@ -2,21 +2,76 @@ group_titanforged = {
     
     titanforged = {
         color = { 174 170 170 } # rgba(174,170,170, 1) - #aeaaaa
+
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+
     }
 
     earthen = {
         color = { 117 113 113 } # rgba(117,113,113, 1) - #757171
+		
+        modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+
     }
 
     iron_dwarf = {
         color = { 47 117 181 } # rgba(47,117,181, 1) - #2f75b5
+
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+        
     }
     
     mechagnome = {
         color = { 117 48 160 } # rgba(112,48,160, 1) - #7030a0
+
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+        
     }
 
     frozen_giant = {
         color = { 48 84 150 } # rgba(48,84,150, 1) - #305496
+
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+
     }
 }

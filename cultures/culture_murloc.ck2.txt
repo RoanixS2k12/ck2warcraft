@@ -37,6 +37,17 @@ group_murloc = {
 
     gorloc = {
         color = { 112 173 71 } # rgba(112,173,71, 1) - #70ad47
+
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+
     }
 
 }

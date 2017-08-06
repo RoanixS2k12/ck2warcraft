@@ -431,6 +431,16 @@ group_human = {
 
 	northen_hunter = {
 		color = { 157 109 73 } # rgba(157,109,73, 1) - #9d6d49
+		
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
 	}
 
 }
