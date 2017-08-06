@@ -1,0 +1,22 @@
+group_titanforged = {
+    
+    titanforged = {
+
+    }
+
+    earthen = {
+
+    }
+
+    iron_dwarf = {
+
+    }
+    
+    mechagnome = {
+
+    }
+
+    frozen_giant = {
+
+    }
+}
