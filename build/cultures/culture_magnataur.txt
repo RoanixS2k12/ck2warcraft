@@ -1,0 +1,18 @@
+group_magnataur = {
+    
+    magnataur = {
+        color = { 47 117 181 } # rgba(47,117,181, 1) - #2f75b5
+
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+
+    }
+
+}

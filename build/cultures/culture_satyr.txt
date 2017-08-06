@@ -1,0 +1,18 @@
+group_satyr = {
+    
+    satyr = {
+        color = { 255 182 0 } # rgba(255,192,0, 1) - #ffc000
+
+		modifier = default_culture_modifier
+
+		male_names = {
+
+		}
+
+		female_names = {
+			
+		}
+
+    }
+    
+}

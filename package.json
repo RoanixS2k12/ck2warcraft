@@ -1,0 +1,19 @@
+{
+  "name": "ck2wow",
+  "version": "0.0.1",
+  "description": "Warcraft Universe mod for Crusader Kings II",
+  "main": "index.js",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoanixS2k12/ck2warcraft.git"
+  },
+  "author": "Joani COUMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoanixS2k12/ck2warcraft/issues"
+  },
+  "homepage": "https://github.com/RoanixS2k12/ck2warcraft#readme"
+}

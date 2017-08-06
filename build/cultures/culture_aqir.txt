@@ -1,0 +1,82 @@
+aqir_group = {
+    graphical_cultures = { censoredgfx westerngfx }
+
+	qiraji = {
+		graphical_cultures = { censoredgfx westerngfx }
+
+		color = { 255 61 41 }
+
+		male_names = {
+		}
+		female_names = {
+		}
+
+		modifier = default_culture_modifier
+	}
+	nerubian = {
+		graphical_cultures = { censoredgfx westerngfx }
+
+		color = { 93 55 255 }
+
+		male_names = {
+			Aaani Abaalisaba Abastatauk Abhobis Abtera Ahn'kahar Aiemabt Amememhasenb Amemu Amenei Ameneman Amenhemti Amenheratf Amenisenb
+			Amenmeses Amennaanka Amennofre Amenrahersef Amenthes Ammenebthes Amran Amunhikhobsef Amynus Anbutelebtuf Anebni Ankhareoutef
+			Ankhbieoi Ankhhabimes Anok'ra Anok'suten Anub'arak Anub'et'kan Anub'rekhan Arnebaskenis Ataiuhai Atekhramun Aten'nefru
+			Athothes Azhuul'mehab Azibo Babafemi Badru Barukatatau Behdeti Benibe Bentehhor Binebtat Binothres Cheres Chisisi Chons Dhouti
+			Ei'uskh Fai'iri'ei Fai'nofre Ha'kamsi Hagiel Haker Hammu Hankhi Har'em'ha Har'khent'skhem Har'saf Hati'nofre Hazu'asnab
+			Heb'i Hek'an Hekhi Hent'aur Her'ben Hesbu Het'ament Het'het Hetmas Hisiris Hor'em'hebi Horemheb Houteoiri Ini'herit Iri'sen
+			Isbimagu Ith'rix Jibade Ka'asch Ka'dus Ka'mat'ef Ka'nebt'ma Ka'scheb Kadubast Kambatet Kambish Kambuzia Kanebti Karto'nen'arub
+			Kasch'ta Katesi Ken'arub Kent'ehi Ket'nit Ketemet Khaem'uas Khaf'ra'sif Khasu'en'arub Khati Khebri Khert'ase Khit'rix Khons'em
+			Khu'en'bthah Kilix Krik'thir Kryxix Ksametik'khu Kse'nuter Ksi'naches Lisimba Majis'tomon Malas Mandonobhis Men'na Mentu'ra
+			Mentun'sasu Mer'ka'neshu Mer'mes Merhu Merira Methusubhis Mi'atum'u Mibambes Misabhris Nadox Nakht'ankh Namurot Narmer
+			Neb'e'chot Nefer'ka'ra Nefer'rembe Nefertum Nekhtarhebi Nes'anhur Nezar'azret Nofre'hoteb'es Nofre'ka'seneb Nofre'mat
+			Nohem'maschuf Nut'mi'arub Oimenebthah Osiris'rhotamenti Quasshie Ra'en'kau Ra'kheberu'neb Ra'mei Ra'mei'basht Ra'mere'nefer
+			Ra'meses'khaem Ra'meses'nekht Ra'neb'nem Ra'senb Ra'to'men Rhambsinitus Rut'arub Sa'arub Sabacon Sabola Sarabou Se'isi
+			Sebek'em'of Sebt'achem Sent'en'antef Set'em'ash Sethenes Sethos Shafra Shebes'kaf Shelub Sifiye Sinok Sioutmoutf Talonox
+			Tarik Tat'kera'ma Tekem Tes'kartes Titia Tivax Ton'en'arub Tsekani Tumaini Tutankhamen Uaem'kau Uah'abra Uah'brahet Ubaid
+			Ul'tomon Un'nefer User'ches Usirtasen Utnas Yahya Yath'amon Zabhnath'baaneah
+		}
+		female_names = {
+			Aaani Abaalisaba Abastatauk Abhobis Abtera Ahn'kahar Aiemabt Amememhasenb Amemu Amenei Ameneman Amenhemti Amenheratf Amenisenb
+			Amenmeses Amennaanka Amennofre Amenrahersef Amenthes Ammenebthes Amran Amunhikhobsef Amynus Anbutelebtuf Anebni Ankhareoutef
+			Ankhbieoi Ankhhabimes Anok'ra Anok'suten Anub'arak Anub'et'kan Anub'rekhan Arnebaskenis Ataiuhai Atekhramun Aten'nefru
+			Athothes Azhuul'mehab Azibo Babafemi Badru Barukatatau Behdeti Benibe Bentehhor Binebtat Binothres Cheres Chisisi Chons Dhouti
+			Ei'uskh Fai'iri'ei Fai'nofre Ha'kamsi Hagiel Haker Hammu Hankhi Har'em'ha Har'khent'skhem Har'saf Hati'nofre Hazu'asnab
+			Heb'i Hek'an Hekhi Hent'aur Her'ben Hesbu Het'ament Het'het Hetmas Hisiris Hor'em'hebi Horemheb Houteoiri Ini'herit Iri'sen
+			Isbimagu Ith'rix Jibade Ka'asch Ka'dus Ka'mat'ef Ka'nebt'ma Ka'scheb Kadubast Kambatet Kambish Kambuzia Kanebti Karto'nen'arub
+			Kasch'ta Katesi Ken'arub Kent'ehi Ket'nit Ketemet Khaem'uas Khaf'ra'sif Khasu'en'arub Khati Khebri Khert'ase Khit'rix Khons'em
+			Khu'en'bthah Kilix Krik'thir Kryxix Ksametik'khu Kse'nuter Ksi'naches Lisimba Majis'tomon Malas Mandonobhis Men'na Mentu'ra
+			Mentun'sasu Mer'ka'neshu Mer'mes Merhu Merira Methusubhis Mi'atum'u Mibambes Misabhris Nadox Nakht'ankh Namurot Narmer
+			Neb'e'chot Nefer'ka'ra Nefer'rembe Nefertum Nekhtarhebi Nes'anhur Nezar'azret Nofre'hoteb'es Nofre'ka'seneb Nofre'mat
+			Nohem'maschuf Nut'mi'arub Oimenebthah Osiris'rhotamenti Quasshie Ra'en'kau Ra'kheberu'neb Ra'mei Ra'mei'basht Ra'mere'nefer
+			Ra'meses'khaem Ra'meses'nekht Ra'neb'nem Ra'senb Ra'to'men Rhambsinitus Rut'arub Sa'arub Sabacon Sabola Sarabou Se'isi
+			Sebek'em'of Sebt'achem Sent'en'antef Set'em'ash Sethenes Sethos Shafra Shebes'kaf Shelub Sifiye Sinok Sioutmoutf Talonox
+			Tarik Tat'kera'ma Tekem Tes'kartes Titia Tivax Ton'en'arub Tsekani Tumaini Tutankhamen Uaem'kau Uah'abra Uah'brahet Ubaid
+			Ul'tomon Un'nefer User'ches Usirtasen Utnas Yahya Yath'amon Zabhnath'baaneah
+		}
+
+		modifier = default_culture_modifier
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 10
+		mother_name_chance = 10
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 10
+		mother_name_chance = 10
+	}
+	mantid = {
+		graphical_cultures = { censoredgfx westerngfx }
+
+		color = { 246 136 14 }
+
+		male_names = {
+		}
+		female_names = {
+		}
+
+		modifier = default_culture_modifier
+	}
+}
