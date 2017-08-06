@@ -1,0 +1,532 @@
+group_troll = {
+	graphical_cultures = { censoredgfx mesoamericangfx muslimgfx }
+	
+	gurubashi = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 0.44 0.93 0.0 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	bloodscalp = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 1.0 0.24 0.24 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	atalai = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 0.69 0.77 0.6 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	skullsplitter = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 1.0 0.75 0.68 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	frostmane = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 0.27 0.65 0.85 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	witherbark = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 0.66 0.81 0.55 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	vilebranch = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 0.41 0.65 0.3 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	revantusk = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 0.0 1.0 0.0 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	amani = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 0.0 0.42 0.0 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	mossflayer = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 0.97 0.45 0.14 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	zandalari = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 0.2 0.6 0.2 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	darkspear = {
+		graphical_cultures = { censoredgfx mesoamericangfx }
+		
+		color = { 0.43 0.18 0.62 }
+		
+		male_names = { 
+			Vinalai Jamaaz Hakuzan Uthelthil Sinazwan Roso Kuzwan Zelaraz Trazzu Zandogu yarimon
+			Cha Seshulkaz Trez Kyo Kurane Hukajel Hanaajkalai Haianumike Zesnannanju Jabu Aluhlak Gal
+			Vulujzim To Ahjen Muz Mak Uran Nay Kuzah Uthellak Peleun Zeszim Do Urbin Vol Ros Mig
+			Rapgan Drukinjo Vuljel Vulga Rhuzthil auzashi Kokyo Jamazko Jesulabar Hakuajodah Valbin Uthel
+			Zolmok Zolthul Xuuzbin Shakghan Nanju Umijo Xuju Tzalgan Ligu Zilru Vuanji Vuza T Aya
+			Hanengu Tunizjel Zolmbu Sora Shaumike Voneshi Tzalingi Tish Tazkima Hakuoji Jan Xuk
+			Zalaaki Hokiizlaji Maluhmon Tan Ulkaz Zubazin Zesi Zubmon Rusthul Rimon Sejiju
+			Xunash Druk Senmok Aziypto Rhaz Rosazin Umijo Ugononbu Zelak Hakajizibo Xenungu Pelahjen Seshcha
+			Drumonlaji Tjian Zan Migabar yauhinjo Hakeshi Juna Tzal Vuzaahjen Doth Mag Ran Vis
+			Sinthal Zuf Ruzanjo Shunak Von Zilziuh Tanuzash Vumon Peldo Rakazambi Xenlak Kun Zebaz
+			Shalay Rhaabar Xencha Kojuabar Mugunjo Rhuzanga Rujakalai Shunashi Zeljumon Uthel Vinengu
+			Linkima Rejahjen Zilnanju Zelaambi ayambi agu Xanbu Jalalai Tanmbu Ruzzim Zon Gan Muzru
+			Thuwa Jum Muzujalai Zesumike Trezji Zunjabu Hamagi Uthelaji Hokthil Wonlak Ugo Vale Kuraji
+			Druthil Jaaji Ses Korij Vuze Miguza Sesun Zailai Zilodah Rosulabar Hoki Mig Ghan Zal
+			Kaianyambi Vonaznay Tazga Malrimon Hakuulkaz Hokima Grik Senju Haito Rosgan Urlaji
+		}
+		female_names = { 
+			Soniona Yera Vehala Bulliemalu Unjiuzutie Vehe Lujra Kulunonixia Eza Ateaneja Zotiejie Zuraci Mak
+			Benulli Khuj Zhonzali Vujonsiya Baluli Talazra Yuesa Ajaz Kiziaty azae Shakanonulea Rauwei Din
+			Yuha Senini Kaiujijazi Kejjiala Yahusha Balaui Xia Taynantoa Suja Soniujmahi Kannonuwei Lith Arn
+			Moa Sulylin Tulnoniya Akewatha laola Vajanasha Tusanji Zotioti Yashaty Eciajie Eleuja Salesa Soniiya
+			Zaraanja Sulsiya Shajuatha Yuaca Janeti Khelejie Zamullu Alunjiujia Bunini Tulera Haijo Khia Akuzatha
+			Yahara Kanazhena Bajiija Sianuhun Anji Valazae Anununa Shariaty Katueja Tezezzi Kinnanuna Bieulae
+			Kuzi Yusiya Vehdur Zalila Makajiera Yua Kataona Juvasiya Sonalu Khelezzi Shamijazi Yashani
+			Aluunja Illaoza Shaullu Unna Rauwatha Tezziemalu Vulshia Vujisa Bulieta Ziaeza Suliany Ballioti
+			Aya Zashiixia Sujena Unji Beniishi Kheleja Ajyra Zirujila Pujzari Talinda Seshejie Zeauashi Shi Mith
+			Sujjiuja Khijeza i Racijhena Meiunalu Zameza Ejionna Zhonusha Tsu Sajijazi Zollaunja Benieza Hai
+			Aszeona Holauzanji Ajjiinda atha Kelah Katuhalae Monunizi Zollauna Deiola Zuuna Anji Sianola So
+			Bunizali Lujnanajia Zesaino Bulaemalu Yahzali Yeruwei Kiziamor Araani Mahi Buluujia Tejazaaci Balliulae
+			Dur Zarnonusha Jammei Eza Elujia Xuaca Vanutie
+		}
+		
+		# founder_named_dynasties = yes
+		
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+}

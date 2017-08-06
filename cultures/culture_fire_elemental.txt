@@ -1,0 +1,29 @@
+group_elemental = {
+    graphical_cultures = { censoredgfx fireelementalgfx }
+	fire_elemental = {
+		graphical_cultures = { censoredgfx fireelementalgfx }
+		
+		color = { 0.23 0.62 0.31 }
+
+		male_names = {
+			Guy
+		}
+		female_names = {
+			Girl
+		}
+
+		modifier = default_culture_modifier
+	}
+	firelord = {
+		graphical_cultures = { firelordgfx }
+		
+		color = { 0.23 0.62 0.31 }
+
+		male_names = {
+		}
+		female_names = {
+		}
+
+		modifier = default_culture_modifier
+	}
+}

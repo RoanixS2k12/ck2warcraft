@@ -1,0 +1,46 @@
+undead_group = {
+    graphical_cultures = { censoredgfx southerngfx westerngfx }
+	
+	scourge = {
+		graphical_cultures = { censoredgfx southerngfx westerngfx }
+		
+		color = { 0.63 0 0.98 }
+
+		male_names = {
+			Alebrain Algernon Arkeddon Bane Baneflight Bileblow Bilemaw Bitsy Bloodfeast Bonerender Borgoth Brothogg Butcher Bythius Carnage Cauldron Chucky Coprous Corpsedust Corpulous Crippler Darkheart Darkscythe Darmuk Dreadwind Effritus Eldreth 
+			Fester Feugen Foulmane Garfrost Garginox Gehennis Gish Glutton Gordo Gorth Gory Goutgut Griegen Grimwing Gristlegut Grobbulus Grummus Gurgoth Gutretch Horgus Ichor Ick Ironspine Ivar Jurion Karrel Kirtonos Knucklerot Koragg Kreug Leprithus 
+			Luzran Masud Meathook Melt Morbidius Morbidus Murp Nass Nergeld Orsur Ozorg Patches Patchwerk Polkelt Putricide Putridius Putridus Ramstein Rattlegore Ravenian Rith Rottgut Scabbard Shalewing Shambles Skul Spiked Stalagg Stitches Stonespine 
+			Tartek Thaddius Thiassi Thistlenettle Thrym Timmy Touarril Turgid Unforgiven Urgreth Verringtan Vile Zelfrax
+		}
+		female_names = {
+			Alebrain Algernon Arkeddon Bane Baneflight Bileblow Bilemaw Bitsy Bloodfeast Bonerender Borgoth Brothogg Butcher Bythius Carnage Cauldron Coprous Corpsedust Corpulous Crippler Darkheart Darkscythe Darmuk Dreadwind Effritus Eldreth 
+			Fester Feugen Foulmane Garfrost Garginox Gehennis Gish Glutton Gordo Gorth Gory Goutgut Griegen Grimwing Gristlegut Grobbulus Grummus Gurgoth Gutretch Horgus Ichor Ick Ironspine Ivar Jurion Karrel Kirtonos Knucklerot Koragg Kreug Leprithus 
+			Luzran Masud Meathook Melt Morbidius Morbidus Murp Nass Nergeld Orsur Ozorg Patches Patchwerk Polkelt Putricide Putridius Putridus Ramstein Rattlegore Ravenian Rith Rottgut Scabbard Shalewing Shambles Skul Spiked Stalagg Stitches Stonespine 
+			Tartek Thaddius Thiassi Thistlenettle Thrym Touarril Turgid Unforgiven Urgreth Verringtan Vile Zelfrax
+		}
+
+		modifier = scourge_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+	}
+	nerzhul = {
+		graphical_cultures = { nerzhulgfx }
+		
+		color = { 0.63 0 0.98 }
+
+		male_names = {
+		}
+		female_names = {
+		}
+
+		modifier = default_culture_modifier
+	}
+}
