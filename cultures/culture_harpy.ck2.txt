@@ -1,7 +1,7 @@
 group_harpy = {
     
     harpy = {
-        
+        color = {  } # rgba(132,151,176, 1) - #8497b0
     }
 
 }

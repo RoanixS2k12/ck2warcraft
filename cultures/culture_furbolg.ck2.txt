@@ -1,6 +1,6 @@
 group_furbolg = {
     
     furbolg = {
-        
+        color = { 128 96 0 } # rgba(128,96,0, 1) - #806000
     }
 }

@@ -1,11 +1,15 @@
 group_vrykul = {
 
     vrykul = {
-        color = {  }
+        color = { 117 50 9 } # rgba(117,50,9, 1) - #753209
     }
 
     kvaldir = {
-        
+        color = { 84 130 53 } # rgba(84,130,53, 1) - #548235
+    }
+
+    hyldnir = {
+        color = { 131 60 12 } # rgba(131,60,12, 1) - #833c0c
     }
 
 }

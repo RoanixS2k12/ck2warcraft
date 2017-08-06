@@ -529,4 +529,9 @@ group_troll = {
 
 		modifier = default_culture_modifier
 	}
+
+	drakkari = {
+		color = { 51 63 79 } # rgba(51,63,79, 1) - #333f4f
+	}
+
 }

@@ -1,7 +1,7 @@
 group_satyr = {
     
     satyr = {
-
+        color = { 255 182 0 } # rgba(255,192,0, 1) - #ffc000
     }
     
 }
