@@ -4,7 +4,7 @@
   "description": "Warcraft Universe mod for Crusader Kings II",
   "main": "index.js",
   "scripts": {
-    "build": "./build.sh"
+    "build": "build.sh"
   },
   "repository": {
     "type": "git",

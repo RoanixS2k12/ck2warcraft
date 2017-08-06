@@ -6,12 +6,19 @@ group_vrykul = {
         modifier = default_culture_modifier
 
 		male_names = {
-
+			Heinrekur Herjolfur Saivaldur Oessur Steinarr Svanthor Alfur Edvard Rafnkell Kopur Arnberg Tindur Bjarg Birkir Geirolfur Marten Fjalar Holmsteinn Styr Asbjörn Astrad
+			Botulf Björn_Beorn Sighvatur Kjallakur Oyvind Sighvatur Freymodur Hreidmar Hnikar Hroaldur Jatmundur Sigurberg Bjoernolfur Fridgeir Bergfinnur Ljotur Bjarnhedinn Yngvar 
+			Aigir Otri Halfdan Bryntyr Fjolmundur Bjolan Reinhart Eldur Fengur Isleifur Gudbjoern Heidbert Bjolfur Halldor Berghreinn Arnoddur Rafnkell Hnikar Huldar Roekkvi 
+			Asbjoern Vigmundur Kolur Herleifur Fjolmundur Hilmar Ingibergur Bjoergmundur Edvald Frodmar Freymundur Soelvar Olgeir 
 		}
 
 		female_names = {
-			
+			Sandra Astthrudur Loftveig Jonbjoert Leonora Atena Laufheidur Sigdora Brynheidur Sigfrid Steinrun Gilslaug Ingiridur Irma Vibekka Sigurda Bjarnveig Hansina Kristjona 
+			Edit Hjalmfridur Randalin Baldvina Ynja Ulfdis Selka Astveig Engilbjoert Hladgerdur Roslinda Steinfridur Lukka Valbjoerg Vidja Solrun Hilda Haflida Ida Njola Salgerdur
+			Ormhildur Gislny Sesselja Rafnhildur Svala Njola Saibjoerg Siggerdur Oelveig Bjoerg Valbjoerg Anja Snjafridur Brynhildur Signhildur Bengta Sveinhildur Gunnhildur 
+			Jarngerdur Audna Hrafntinna Steinfridur Sigdora Oerbrun Sigurjona Fridlin Ingrid Gissunn Hjalmdis Kristianna Svanfridur  
 		}
+
     }
 
     kvaldir = {
@@ -20,11 +27,17 @@ group_vrykul = {
 		modifier = default_culture_modifier
 
 		male_names = {
-
+			Heinrekur Herjolfur Saivaldur Oessur Steinarr Svanthor Alfur Edvard Rafnkell Kopur Arnberg Tindur Bjarg Birkir Geirolfur Marten Fjalar Holmsteinn Styr Asbjörn Astrad
+			Botulf Björn_Beorn Sighvatur Kjallakur Oyvind Sighvatur Freymodur Hreidmar Hnikar Hroaldur Jatmundur Sigurberg Bjoernolfur Fridgeir Bergfinnur Ljotur Bjarnhedinn Yngvar 
+			Aigir Otri Halfdan Bryntyr Fjolmundur Bjolan Reinhart Eldur Fengur Isleifur Gudbjoern Heidbert Bjolfur Halldor Berghreinn Arnoddur Rafnkell Hnikar Huldar Roekkvi 
+			Asbjoern Vigmundur Kolur Herleifur Fjolmundur Hilmar Ingibergur Bjoergmundur Edvald Frodmar Freymundur Soelvar Olgeir 
 		}
 
 		female_names = {
-			
+			Sandra Astthrudur Loftveig Jonbjoert Leonora Atena Laufheidur Sigdora Brynheidur Sigfrid Steinrun Gilslaug Ingiridur Irma Vibekka Sigurda Bjarnveig Hansina Kristjona 
+			Edit Hjalmfridur Randalin Baldvina Ynja Ulfdis Selka Astveig Engilbjoert Hladgerdur Roslinda Steinfridur Lukka Valbjoerg Vidja Solrun Hilda Haflida Ida Njola Salgerdur
+			Ormhildur Gislny Sesselja Rafnhildur Svala Njola Saibjoerg Siggerdur Oelveig Bjoerg Valbjoerg Anja Snjafridur Brynhildur Signhildur Bengta Sveinhildur Gunnhildur 
+			Jarngerdur Audna Hrafntinna Steinfridur Sigdora Oerbrun Sigurjona Fridlin Ingrid Gissunn Hjalmdis Kristianna Svanfridur  
 		}
 
     }
@@ -35,11 +48,17 @@ group_vrykul = {
 		modifier = default_culture_modifier
 
 		male_names = {
-			
+			Heinrekur Herjolfur Saivaldur Oessur Steinarr Svanthor Alfur Edvard Rafnkell Kopur Arnberg Tindur Bjarg Birkir Geirolfur Marten Fjalar Holmsteinn Styr Asbjörn Astrad
+			Botulf Björn_Beorn Sighvatur Kjallakur Oyvind Sighvatur Freymodur Hreidmar Hnikar Hroaldur Jatmundur Sigurberg Bjoernolfur Fridgeir Bergfinnur Ljotur Bjarnhedinn Yngvar 
+			Aigir Otri Halfdan Bryntyr Fjolmundur Bjolan Reinhart Eldur Fengur Isleifur Gudbjoern Heidbert Bjolfur Halldor Berghreinn Arnoddur Rafnkell Hnikar Huldar Roekkvi 
+			Asbjoern Vigmundur Kolur Herleifur Fjolmundur Hilmar Ingibergur Bjoergmundur Edvald Frodmar Freymundur Soelvar Olgeir 
 		}
 
 		female_names = {
-			
+			Sandra Astthrudur Loftveig Jonbjoert Leonora Atena Laufheidur Sigdora Brynheidur Sigfrid Steinrun Gilslaug Ingiridur Irma Vibekka Sigurda Bjarnveig Hansina Kristjona 
+			Edit Hjalmfridur Randalin Baldvina Ynja Ulfdis Selka Astveig Engilbjoert Hladgerdur Roslinda Steinfridur Lukka Valbjoerg Vidja Solrun Hilda Haflida Ida Njola Salgerdur
+			Ormhildur Gislny Sesselja Rafnhildur Svala Njola Saibjoerg Siggerdur Oelveig Bjoerg Valbjoerg Anja Snjafridur Brynhildur Signhildur Bengta Sveinhildur Gunnhildur 
+			Jarngerdur Audna Hrafntinna Steinfridur Sigdora Oerbrun Sigurjona Fridlin Ingrid Gissunn Hjalmdis Kristianna Svanfridur  
 		}
     }
 
